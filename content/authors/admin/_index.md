@@ -29,9 +29,9 @@ bio: My research interests include Human Computer Interaction, Ubiquitous comput
 
 # Interests to show in About widget
 interests:
-  · Human Computer Interaction
-  · Social Computing
-  · Artificial Intelligence for Psychology and Cognitive Science
+  - Human Computer Interaction
+  - Social Computing
+  - AI for Psychology and Cognitive Science
 
 # Education to show in About widget
 education:
