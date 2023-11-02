@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 李沁芮
+title: Qinrui Li
 
 # Name pronunciation (optional)
 name_pronunciation: 
@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Master Student of Computer Science in Human Computer Interaction
+role: Master Student | Computer Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -29,9 +29,9 @@ bio: My research interests include Human Computer Interaction, Ubiquitous comput
 
 # Interests to show in About widget
 interests:
-  - Human Computer Interaction
-  - Social Computing
-  - Artificial Intelligence for Psychology and Cognitive Science
+  · Human Computer Interaction
+  · Social Computing
+  · Artificial Intelligence for Psychology and Cognitive Science
 
 # Education to show in About widget
 education:
